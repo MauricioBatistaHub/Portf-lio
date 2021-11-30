@@ -61,7 +61,7 @@ header{
 }
 
 #Atividade2{
-    width: 300px;
+    width: 450px;
     height: 300px;
     border-radius: 5px;
     margin-top:-100px;
@@ -79,5 +79,12 @@ header{
     height: 270px;
     border-radius: 5px;
     margin-top:-100px;
+}
+
+#Atividade5{
+    width: 450px;
+    height: 300px;
+    border-radius: 5px;
+    margin-top:-100px;  
 }
 
